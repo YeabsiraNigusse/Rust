@@ -1,1 +1,1 @@
-/home/yeab/Rust/functions/target/debug/functions_4: /home/yeab/Rust/functions/src/bin/functions_4.rs
+C:\Users\nigud\Desktop\Rust\functions\target\debug\functions_4.exe: C:\Users\nigud\Desktop\Rust\functions\src\bin\functions_4.rs
