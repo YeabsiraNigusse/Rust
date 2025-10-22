@@ -1,5 +1,5 @@
-mod problem;
+mod problem1;
 
 fn main() {
-   problem::problem1();
+   problem1::problem1();
 }
