@@ -8,8 +8,6 @@ pub fn problem3(){
     let mut num2 = String::new();
     let mut num3 = String::new();
 
-    
-
     io::stdin().read_line(&mut num1).expect("number1 should be inserted");
     io::stdin().read_line(&mut num2).expect("number2 should be inserted");
     io::stdin().read_line(&mut num3).expect("number3 should be inserted");
@@ -26,13 +24,5 @@ pub fn problem3(){
     // assert_eq!(v, [1, 2, 3]);
 
     println!("ordered number {:?}", v);
-
-
-
-    
-    
-
-
-
 
 }
